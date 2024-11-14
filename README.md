@@ -10,7 +10,7 @@ I've been a **data scientist** for two years, working mainly with a focus on mod
 
 With data analysis, I've already identified compressed air leaks in the order of 70% and thus contributed to reducing costs. I have also analyzed data from oil quality, humidity and vibration sensors in machines and engines.
 
-I was also part of a team that developed a machine learning model to identify the chemical composition of scrap metal for steel production. As a result, the client reduced its consumption of more expensive scrap, also reducing costs both in the purchase of material and in the production of steel.
+I was also part of a team that developed a machine learning model to identify the chemical composition of scrap metal for steel production. As a result, the client reduced its consumption of more expensive scrap and thus cut costs both in the purchase of material and in the production of steel.
 
 My work and study routine involves the use of **Python** and libraries such as Pandas, Numpy, SKlearn, Scipy, Matplotlib and Plotly.
 I have already developed models such as supervised bagging techniques with random forest and gradient boosting with XGBoost, CatBoost, LightGBM and AdaBoost for both classification and regression problems.
